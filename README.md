@@ -2,15 +2,31 @@
 
 **Fullstack Developer** mit Fokus auf moderne Java- und React-Anwendungen.
 
-Nach meiner Ausbildung als Fachinformatiker entwickle ich seit fast 2 Jahren robuste und wartbare Webanwendungen. Ich lege großen Wert auf sauberen Code, gute Architektur und praxisnahe Lösungen.
+Als Fachinformatiker für Anwendungsentwicklung bringe ich seit 2021 (über 5 Jahren) praktische Erfahrung in der Softwareentwicklung mit. In meiner Ausbildung (2021–2024) habe ich bereits Webanwendungen erstellt und SAP Reports in ABAP programmiert, was mir fundierte Kenntnisse in der SAP-Welt vermittelt hat. Seit meinem Abschluss 2024 (fast 2 Jahren) setze ich diese Skills in beruflichen Projekten um aktuell entwickle ich Fullstack-Anwendungen im unten genannten Tech-Stack (z. B. Java mit Spring Boot und React). Ich lege großen Wert auf sauberen Code, gute Architektur und praxisnahe Lösungen.
 
 ### 🛠 Tech-Stack
 - **Backend**:
-![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg) ![Spring Boot](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg)
+<br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg" width ="64" height = "64" alt = "Java"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg" width ="64" height = "64" alt= "Spring Boot" />
+
 - **Frontend**:
-![React](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg), ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg), ![Tailwind](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg)
-- **DevOps**: Docker, Docker Compose, AWS (ECS, EC2, S3, RDS)
-- **Tools**: Git, Maven/Gradle, GitHub Actions, PostgreSQL, JUnit
+<br>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg" width ="64" height = "64" alt= "React" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg" width ="64" height = "64" alt= "TypeScript" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg" width ="64" height = "64" alt= "Tailwind" />
+
+- **DevOps**:
+<br>
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" width = "64" height = "64" alt = "Docker und Docker Compose">
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AWS-Dark.svg" width = "64" height = "64" alt = "Docker und Docker Compose">
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/GitLab-Dark.svg" width = "64" height = "64" alt = "Docker und Docker Compose">
+
+- **Tools**:
+<br>
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" width = "64" height = "64" alt = "Git">
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Maven-Dark.svg" width = "64" height = "64" alt = "Git">
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PostgreSQL-Dark.svg" width = "64" height = "64" alt = "Git">
 
 ### 🌱 Aktuell lerne ich
 - Kubernetes & Terraform
