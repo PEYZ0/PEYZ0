@@ -17,6 +17,7 @@ Nach meiner Ausbildung als Fachinformatiker entwickle ich seit fast 2 Jahren rob
 
 ### 📫 Kontakt & mehr
 - [LinkedIn](https://www.linkedin.com/in/zakaria-el-berkani-51a35b1b3/)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 - Open to new opportunities & interessante Projekte
 
 ---
