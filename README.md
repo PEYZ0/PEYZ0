@@ -5,8 +5,10 @@
 Nach meiner Ausbildung als Fachinformatiker entwickle ich seit fast 2 Jahren robuste und wartbare Webanwendungen. Ich lege großen Wert auf sauberen Code, gute Architektur und praxisnahe Lösungen.
 
 ### 🛠 Tech-Stack
-- **Backend**: Java, Spring Boot, Spring Data JPA, REST APIs
-- **Frontend**: React, TypeScript, Tailwind CSS
+- **Backend**:
+![Java](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Java-Dark.svg) ![Spring Boot](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Spring-Dark.svg)
+- **Frontend**:
+![React](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/React-Dark.svg), ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TypeScript.svg), ![Tailwind](https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/TailwindCSS-Dark.svg)
 - **DevOps**: Docker, Docker Compose, AWS (ECS, EC2, S3, RDS)
 - **Tools**: Git, Maven/Gradle, GitHub Actions, PostgreSQL, JUnit
 
@@ -17,7 +19,6 @@ Nach meiner Ausbildung als Fachinformatiker entwickle ich seit fast 2 Jahren rob
 
 ### 📫 Kontakt & mehr
 - [LinkedIn](https://www.linkedin.com/in/zakaria-el-berkani-51a35b1b3/)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
 - Open to new opportunities & interessante Projekte
 
 ---
